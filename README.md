@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Ankit%20Kumar%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
+
 # 🚀 Machine Learning Engineer • Generative AI Developer • Backend Engineer
 
 ### Building Production-Ready AI Systems • LLM Applications • Intelligent Automation Solutions
@@ -146,7 +147,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=santhoshkumaroff&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ankit-Kumar-Jha-01&theme=github-dark-blue&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -156,7 +157,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkumaroff&theme=github-dark&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumar-Jha-01&theme=github-dark&hide_border=true&radius=16" />
 
 </div>
 
@@ -166,7 +167,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhoshkumaroff&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit-Kumar-Jha-01&theme=github_dark" />
 
 </div>
 
