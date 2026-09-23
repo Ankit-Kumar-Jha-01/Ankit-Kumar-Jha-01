@@ -88,8 +88,7 @@ Mission:
 
 ---
 
-# 🏗️ Data & AI Architecture
-
+# 🏗️ Engineering Architecture
 ```text
 ┌────────────────────────────┐
 │        Applications        │
@@ -115,6 +114,7 @@ Mission:
 │ GenAI • LLMs • RAG         │
 │ AI Agents • LangChain      │
 └────────────────────────────┘
+---
 
 ---
 
@@ -166,7 +166,7 @@ Machine learning project predicting customer booking completion and evaluating m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumar-Jha-01&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumar-Jha-01&theme=github-dark&hide_border=true&radius=16" />
 
 </div>
 
