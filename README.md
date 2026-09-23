@@ -4,13 +4,13 @@
 
 # 🚀 Data Scientist • Machine Learning Engineer • Full Stack Developer
 
-### Building Data-Driven Solutions • Machine Learning & Deep Learning • NLP & Computer Vision • Generative AI & AI Agents
+#### Building Data-Driven Solutions • Machine Learning & Deep Learning • NLP & Computer Vision • Generative AI & AI Agents
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;NLP+%26+Computer+Vision;Generative+AI+Developer;LLM+%26+RAG+Learner;AI+Agent+Developer;Django+%26+ML+Developer;Building+Intelligent+Data+Driven+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;NLP+%26+Computer+Vision;Generative+AI+Developer;LLM+%26+RAG;AI+Agent+Developer;Django+%26+ML+Developer;Building+Intelligent+Data+Driven+Solutions" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Data%20Science%20%26%20AI%20Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data%20Science-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Exploring-GenAI%20%7C%20RAG%20%7C%20AI%20Agents-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Core-Python%20%7C%20SQL%20%7C%20Scikit--learn-yellow?style=for-the-badge" />
