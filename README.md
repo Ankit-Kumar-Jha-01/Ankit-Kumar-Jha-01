@@ -22,7 +22,7 @@
 # 💫 About Me
 
 ```yaml
-Name: Santhosh Kumar S
+Name: Ankit Kumar Jha
 
 Role: Machine Learning Engineer
 
@@ -157,7 +157,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumar-Jha-01&theme=github-dark&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitjha07&theme=github-dark&hide_border=true&radius=16" />
 
 </div>
 
@@ -209,20 +209,24 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<a href="https://linkedin.com/in/santhosh-kumar-s-8b413118b">
+<a href="https://www.linkedin.com/in/ankit-kumar-jhaa/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:ssanthoshkumar.official@gmail.com">
+<a href="mailto:anjha8409@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/santhoshkumaroff">
+<a href="https://github.com/Ankit-Kumar-Jha-01">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.hackerrank.com/sandyskdj">
-<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge&logo=hackerrank" />
+<a href="https://leetcode.com/u/ankit_jhag/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://huggingface.co/ankitjha07">
+<img src="https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=for-the-badge&logo=huggingface" />
 </a>
 
 </div>
