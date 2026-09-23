@@ -2,18 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Ankit%20Kumar%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 
-# 🚀 Machine Learning Engineer • Generative AI Developer • Backend Engineer
+# 🚀 Data Scientist • Machine Learning Engineer • Full Stack Developer
 
-### Building Production-Ready AI Systems • LLM Applications • Intelligent Automation Solutions
+### Building Data-Driven Solutions • Machine Learning & Deep Learning • NLP & Computer Vision • Generative AI & AI Agents
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Engineer;Generative+AI+Developer;LLM+Engineer;RAG+Specialist;AI+Automation+Developer;Backend+Engineer;Building+Production+Ready+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Data+Scientist;Machine+Learning+Engineer;Deep+Learning+Enthusiast;NLP+%26+Computer+Vision;Generative+AI+Developer;LLM+%26+RAG+Learner;AI+Agent+Developer;Django+%26+ML+Developer;Building+Intelligent+Data+Driven+Solutions" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Generative%20AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialization-LLM%20%26%20RAG-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Advanced-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Data%20Science%20%26%20AI%20Opportunities-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Data%20Science-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Exploring-GenAI%20%7C%20RAG%20%7C%20AI%20Agents-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Core-Python%20%7C%20SQL%20%7C%20Scikit--learn-yellow?style=for-the-badge" />
 
 </div>
 
@@ -24,35 +24,40 @@
 ```yaml
 Name: Ankit Kumar Jha
 
-Role: Machine Learning Engineer
+Role: Data Scientist | Machine Learning Engineer
 
 Specializations:
+  - Data Science & Analytics
   - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
+  - Computer Vision
   - Generative AI
   - LLM Applications
-  - Retrieval-Augmented Generation
-  - Backend Engineering
-  - AI Automation
+  - RAG & AI Agents
+  - Django & ML Deployment
 
 Mission:
-  Building intelligent systems that solve real-world business problems.
+  Building data-driven intelligent systems that solve real-world business problems.
 ```
 
 ---
 
 # 🎯 Current Focus
 
-🟢 Building Production-Ready AI Applications
+🟢 Building End-to-End Data Science & Machine Learning Projects
 
-🟢 Developing Enterprise RAG Systems
+🟢 Developing Deep Learning & Computer Vision Solutions
 
-🟢 Exploring Agentic AI Architectures
+🟢 Exploring Generative AI, LLMs & RAG
 
-🟢 Backend API Engineering
+🟢 Learning AI Agents & Agentic Workflows
 
-🟢 Intelligent Workflow Automation
+🟢 Strengthening NLP & Transformer-Based Applications
 
-🟢 Continuous Learning & Innovation
+🟢 ML Model Deployment with Django
+
+🟢 Continuous Learning & Problem Solving
 
 ---
 
@@ -60,7 +65,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,nodejs,nextjs,angular,postgres,mysql,firebase,docker,git,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,tensorflow,pytorch,html,css,js,mysql,postgres,git,github,docker,vscode&perline=7" />
 
 </div>
 
@@ -70,76 +75,80 @@ Mission:
 
 | Domain | Technologies |
 |----------|----------|
-| Artificial Intelligence | Machine Learning, Deep Learning |
-| Generative AI | LLMs, Prompt Engineering |
-| RAG Systems | LangChain, Vector Databases |
-| Backend Development | FastAPI, Django, Node.js |
-| Frontend Development | Next.js, Angular |
-| Databases | PostgreSQL, MySQL |
-| DevOps | Docker, Linux, Git |
+| Data Science | Python, NumPy, Pandas, Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn, Regression, Classification, Clustering |
+| Deep Learning | ANN/MLP, CNN, YOLOv8 |
+| NLP & Transformers | BERT, DistilBERT, Hugging Face |
+| Generative AI | LLMs, Prompt Engineering, AI Agents |
+| RAG Systems | RAG, LangChain, Vector Databases |
+| Backend Development | Django, FastAPI |
+| Databases | MySQL, PostgreSQL, SQL |
+| Programming | Python, Java, C++ |
+| Tools & Platforms | Git, GitHub, VS Code, Google Colab |
 
 ---
 
-# 🏗️ Engineering Architecture
+# 🏗️ Data & AI Architecture
 
 ```text
 ┌────────────────────────────┐
-│         Frontend           │
-│     Next.js • Angular      │
+│        Applications        │
+│       Django • APIs        │
 └─────────────┬──────────────┘
               │
               ▼
 ┌────────────────────────────┐
-│          Backend           │
-│      FastAPI • Django      │
+│      Data & Analytics      │
+│ Python • Pandas • SQL      │
 └─────────────┬──────────────┘
               │
               ▼
 ┌────────────────────────────┐
-│          AI Layer          │
-│      LLM • RAG • Agents    │
+│       ML / AI Layer        │
+│ Scikit-learn • CNN • YOLO  │
+│ NLP • Transformers         │
 └─────────────┬──────────────┘
               │
               ▼
 ┌────────────────────────────┐
-│       Data Layer           │
-│ PostgreSQL • MySQL • Vector│
+│       Emerging AI          │
+│ GenAI • LLMs • RAG         │
+│ AI Agents • LangChain      │
 └────────────────────────────┘
-```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎙 Voice Separation System
+## 🔍 Business Failure Investigator
 
-Machine Learning solution capable of separating speaker and listener voices from mixed audio streams.
+AI-powered business analytics system that detects unusual KPI changes and investigates possible business causes using data-driven evidence.
 
-**Tech:** Python • TensorFlow • Audio Processing
-
----
-
-## 🤖 AI Interview Evaluation Platform
-
-AI-powered candidate assessment platform with aptitude evaluation, coding analysis, and automated reporting.
-
-**Tech:** Next.js • FastAPI • Gemini
+**Tech:** Python • SQL • Scikit-learn • AI Agents • Django
 
 ---
 
-## 🧠 Enterprise RAG Assistant
+## 🚦 Traffic Sign Detection
 
-Knowledge retrieval system powered by vector databases and Large Language Models.
+Deep learning-based traffic sign detection system supporting 61 different traffic sign classes using YOLOv8.
 
-**Tech:** LangChain • ChromaDB • Gemini
+**Tech:** Python • YOLOv8 • CNN • Computer Vision • Google Colab
 
 ---
 
-## ⚡ Intelligent Automation Suite
+## 🧠 MCA eConsultation Sentiment Analysis
 
-AI-powered workflow automation platform designed to streamline business operations.
+NLP system for analyzing public comments and classifying them into negative, neutral, and positive sentiment using DistilBERT.
 
-**Tech:** Python • APIs • Automation
+**Tech:** Python • NLP • DistilBERT • Hugging Face • Django
+
+---
+
+## ✈️ British Airways Customer Booking Prediction
+
+Machine learning project predicting customer booking completion and evaluating model performance using classification metrics.
+
+**Tech:** Python • Pandas • Scikit-learn • Random Forest • Data Analysis
 
 ---
 
@@ -157,7 +166,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitjha07&theme=github-dark&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumar-Jha-01&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -175,33 +184,35 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 # 🌱 Currently Learning
 
-- Agentic AI Systems
-- Advanced RAG Architectures
-- Multi-Agent Workflows
-- MLOps & Deployment
-- AI System Design
+- Generative AI & LLMs
+- RAG Systems
+- LangChain
+- AI Agents & Agentic Workflows
+- Prompt Engineering
+- LLM Application Development
+- MLOps & Model Deployment
 
 ---
 
 # 🏆 Professional Strengths
 
-✅ End-to-End AI Development
+✅ Data Analysis & Machine Learning
 
-✅ Machine Learning Engineering
+✅ Deep Learning & Computer Vision
 
-✅ Backend API Architecture
+✅ NLP & Transformer Models
 
-✅ LLM Integration
+✅ Python & SQL
 
-✅ RAG Systems
+✅ ML Model Development
 
-✅ Intelligent Automation
+✅ Django-Based ML Deployment
 
-✅ Performance Optimization
+✅ Data Preprocessing & Feature Engineering
 
-✅ Production Deployments
+✅ Model Evaluation & Optimization
 
-✅ Scalable System Design
+✅ Building End-to-End ML Projects
 
 ---
 
@@ -217,9 +228,9 @@ AI-powered workflow automation platform designed to streamline business operatio
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://github.com/Ankit-Kumar-Jha-01">
+<!-- <a href="https://github.com/Ankit-Kumar-Jha-01">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
+</a> -->
 
 <a href="https://leetcode.com/u/ankit_jhag/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
@@ -235,7 +246,7 @@ AI-powered workflow automation platform designed to streamline business operatio
 
 <div align="center">
 
-### 💡 Transforming Ideas Into Intelligent Systems Through AI & Engineering
+### 💡 Transforming Data & Ideas Into Intelligent Solutions Through AI & Engineering
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:0D1117&section=footer"/>
 
