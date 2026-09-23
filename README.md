@@ -10,10 +10,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-ML%20%26%20Data%20Science-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Exploring-GenAI%20%7C%20RAG%20%7C%20AI%20Agents-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Core-Python%20%7C%20SQL%20%7C%20-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-ML%20%26%20Data%20Science-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Exploring-GenAI%20%7C%20RAG%20%7C%20AI%20Agents-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Core-Python%20%7C%20SQL-yellow?style=flat-square" />
 
 </div>
 
