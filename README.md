@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Santhosh%20Kumar%20S&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,100:58A6FF&text=Ankit%20Kumar%20Jha&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn" />
 # 🚀 Machine Learning Engineer • Generative AI Developer • Backend Engineer
 
 ### Building Production-Ready AI Systems • LLM Applications • Intelligent Automation Solutions
