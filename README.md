@@ -114,7 +114,7 @@ Mission:
 │ GenAI • LLMs • RAG         │
 │ AI Agents • LangChain      │
 └────────────────────────────┘
----
+```
 
 ---
 
