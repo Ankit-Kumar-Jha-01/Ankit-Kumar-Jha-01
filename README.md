@@ -162,16 +162,6 @@ Machine learning project predicting customer booking completion and evaluating m
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-Kumar-Jha-01&theme=github-dark&hide_border=true&radius=16" />
-
-</div>
-
----
-
 # 🏆 GitHub Summary
 
 <div align="center">
