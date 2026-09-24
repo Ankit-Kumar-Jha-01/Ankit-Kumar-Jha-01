@@ -128,11 +128,11 @@ AI-powered business analytics system that detects unusual KPI changes and invest
 
 ---
 
-## 🚦 Traffic Sign Detection
+## ✈️ British Airways Customer Booking Prediction
 
-Deep learning-based traffic sign detection system supporting 61 different traffic sign classes using YOLOv8.
+Machine learning project predicting customer booking completion and evaluating model performance using classification metrics.
 
-**Tech:** Python • YOLOv8 • CNN • Computer Vision • Google Colab
+**Tech:** Python • Pandas • Scikit-learn • Random Forest • Data Analysis
 
 ---
 
@@ -144,11 +144,11 @@ NLP system for analyzing public comments and classifying them into negative, neu
 
 ---
 
-## ✈️ British Airways Customer Booking Prediction
+## 🚦 Traffic Sign Detection in harsh condition
 
-Machine learning project predicting customer booking completion and evaluating model performance using classification metrics.
+Deep learning-based traffic sign detection system supporting 61 different traffic sign classes using YOLOv8.
 
-**Tech:** Python • Pandas • Scikit-learn • Random Forest • Data Analysis
+**Tech:** Python • YOLOv8 • CNN • Computer Vision • Google Colab
 
 ---
 
