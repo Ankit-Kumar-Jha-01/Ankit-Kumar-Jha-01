@@ -204,6 +204,8 @@ Deep learning-based traffic sign detection system supporting 61 different traffi
 
 ✅ Building End-to-End ML Projects
 
+✅ Unlocking GenAI skills - LLM, LangChain, RAG and many more....
+
 ---
 
 # 📫 Connect With Me
